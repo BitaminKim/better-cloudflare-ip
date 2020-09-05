@@ -1,3 +1,5 @@
+forked from badafans/better-cloudflare-ip
+
 # better-cloudflare-ip
 
 适合中国大陆用户查找适合自己当前网络环境的优选Cloudflare Anycast IP
